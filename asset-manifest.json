@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/SiriusB-Web/static/css/main.79fa4f8e.css",
+    "main.js": "/SiriusB-Web/static/js/main.3aa55c5a.js",
+    "static/js/787.339624b6.chunk.js": "/SiriusB-Web/static/js/787.339624b6.chunk.js",
+    "static/media/project-img1.png": "/SiriusB-Web/static/media/project-img1.847a764611a416f1477b.png",
+    "static/media/color-sharp.png": "/SiriusB-Web/static/media/color-sharp.eb50add22d47b86cc125.png",
+    "static/media/color-sharp2.png": "/SiriusB-Web/static/media/color-sharp2.e11048042c58bc352094.png",
+    "static/media/contact-img.svg": "/SiriusB-Web/static/media/contact-img.8c672b379d3d52db5cd863bc801a636d.svg",
+    "static/media/project-img2.png": "/SiriusB-Web/static/media/project-img2.ef47401b079f2cb1c3af.png",
+    "static/media/logo.svg": "/SiriusB-Web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/banner-bg.png": "/SiriusB-Web/static/media/banner-bg.b31d4aeed15777436dc5.png",
+    "static/media/project-img3.png": "/SiriusB-Web/static/media/project-img3.a51fce988cfc918fc65c.png",
+    "static/media/header-img.svg": "/SiriusB-Web/static/media/header-img.7d2261eca07a6fb0772e6dc33181f111.svg",
+    "static/media/CentraNo2-Bold.ttf": "/SiriusB-Web/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/SiriusB-Web/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/SiriusB-Web/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/SiriusB-Web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/SiriusB-Web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/SiriusB-Web/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/SiriusB-Web/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/SiriusB-Web/index.html",
+    "static/media/nav-icon1.svg": "/SiriusB-Web/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/SiriusB-Web/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/SiriusB-Web/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/SiriusB-Web/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.79fa4f8e.css.map": "/SiriusB-Web/static/css/main.79fa4f8e.css.map",
+    "main.3aa55c5a.js.map": "/SiriusB-Web/static/js/main.3aa55c5a.js.map",
+    "787.339624b6.chunk.js.map": "/SiriusB-Web/static/js/787.339624b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79fa4f8e.css",
+    "static/js/main.3aa55c5a.js"
+  ]
+}
