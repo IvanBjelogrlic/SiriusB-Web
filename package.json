@@ -9,7 +9,7 @@
     "sirius-b": "npm start --prefix sirius-b",
     "dev": "concurrently \"npm run  server\" \"npm run sirius-b\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix sirius-b && npm run build --prefix sirius-b",
-    "build": "npm run build"    
+    "build": "npm run all build"    
   },
   "author": "",
   "license": "ISC",
