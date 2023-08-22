@@ -1,5 +1,4 @@
-{
-  "homepage": "https://IvanBjelogrlic.github.io/SiriusB-Web",
+{  
   "name": "sirius_b-web",
   "version": "1.0.0",
   "description": "",
@@ -10,9 +9,7 @@
     "sirius-b": "npm start --prefix sirius-b",
     "dev": "concurrently \"npm run  server\" \"npm run sirius-b\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix sirius-b && npm run build --prefix sirius-b",
-    "build": "npm run build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "npm run build"    
   },
   "author": "",
   "license": "ISC",
