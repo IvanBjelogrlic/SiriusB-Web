@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SiriusB-Web/static/css/main.79fa4f8e.css",
-    "main.js": "/SiriusB-Web/static/js/main.3aa55c5a.js",
+    "main.css": "/SiriusB-Web/static/css/main.30c7cbc3.css",
+    "main.js": "/SiriusB-Web/static/js/main.72e6b4d9.js",
     "static/js/787.339624b6.chunk.js": "/SiriusB-Web/static/js/787.339624b6.chunk.js",
     "static/media/project-img1.png": "/SiriusB-Web/static/media/project-img1.847a764611a416f1477b.png",
     "static/media/color-sharp.png": "/SiriusB-Web/static/media/color-sharp.eb50add22d47b86cc125.png",
@@ -24,12 +24,12 @@
     "static/media/arrow2.svg": "/SiriusB-Web/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/SiriusB-Web/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/SiriusB-Web/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.79fa4f8e.css.map": "/SiriusB-Web/static/css/main.79fa4f8e.css.map",
-    "main.3aa55c5a.js.map": "/SiriusB-Web/static/js/main.3aa55c5a.js.map",
+    "main.30c7cbc3.css.map": "/SiriusB-Web/static/css/main.30c7cbc3.css.map",
+    "main.72e6b4d9.js.map": "/SiriusB-Web/static/js/main.72e6b4d9.js.map",
     "787.339624b6.chunk.js.map": "/SiriusB-Web/static/js/787.339624b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79fa4f8e.css",
-    "static/js/main.3aa55c5a.js"
+    "static/css/main.30c7cbc3.css",
+    "static/js/main.72e6b4d9.js"
   ]
 }
