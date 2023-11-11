@@ -31,11 +31,22 @@ export const Skills = () => {
         <div className="row">
           <div className="col-12">
             <div className="skill-bx wow zoomIn" id="skills">
-              <h2>About Us</h2>
+              <h2>About us</h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.<br></br> Lorem Ipsum has been the industry's standard
-                dummy text.
+                Sirius B was founded in 2021. and since then is operating as a
+                company specialized in Salesforce solutions. Our purpose is to
+                help mid and large organizations operationalize their digital
+                transformation for every employee. Our dedicated team of
+                professionals has already worked on projects including different
+                business areas within Salesforce cloud applications on
+                Salesforce.com platform. Specialized in Sales Cloud, Service
+                Cloud and Marketing Cloud, we are covering a wide scope of work
+                for our clients including automating sales, marketing and
+                customer service processes and ensuring our customers get the
+                best business solution aligning with their company business
+                strategy. Our expertise include business professionals with 5+
+                years of experience in working with different Cloud applications
+                on the Salesforce.com platform.
               </p>
               <Carousel
                 responsive={responsive}
@@ -43,58 +54,56 @@ export const Skills = () => {
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <h5>Salesforce Integration</h5>
+                  <h5>Salesforce consulting</h5>
                   <p>
-                    Salesforce integration involves connecting Salesforce with
-                    other external systems, applications, or data sources to
-                    enable seamless data exchange and process automation.
-                    Developing expertise in integration techniques, such as
-                    RESTful APIs, SOAP APIs, and middleware platforms like
-                    MuleSoft, empowers you to create unified and synchronized
-                    experiences across various systems. This skill is essential
-                    for building comprehensive solutions that leverage data from
-                    diverse sources within the Salesforce ecosystem.
+                    Our clients get the best expertise by involving our experts
+                    in discovering their potential business improvements,
+                    promoting new ideas, and driving innovation. We
+                    differentiate organizations by enabling new ways of working,
+                    connecting, and conducting business. By aligning with the
+                    clients business needs, we aim to realize the business
+                    operations and focus ourselves in providing optimal
+                    solutions within the Salesforce.com platform. Our common
+                    goal becomes increasing the productivity within clients'
+                    business departments, and making their everyday work as
+                    efficient as possible.
                   </p>
                 </div>
                 <div className="item">
-                  <h5>Apex Development</h5>
+                  <h5>Salesforce implementation and integration</h5>
                   <p>
-                    Apex is a programming language specifically designed for the
-                    Salesforce platform. It allows developers to create custom
-                    business logic, triggers, and controllers for automating
-                    processes and extending the functionality of Salesforce
-                    applications. Mastering Apex enables you to build powerful
-                    and tailored solutions that meet unique business
-                    requirements within the Salesforce ecosystem.
+                    With a hand of skilled professionals, and an insight into
+                    our clients business needs, we offer tailor-made development
+                    solutions. Our development solutions are a product of
+                    bridges between consultants and development specialists. The
+                    synergy between business consultants and tech team brings
+                    the winning combination and as a result provides service
+                    delivery that meets the clients objectives. Grounded in a
+                    nuanced understanding of the operational, business, and
+                    knowledge plans of the client and with a clear understanding
+                    of the digital benefit we provide to our customers, our work
+                    takes a holistic view. The cross-disciplinary integration
+                    between Salesforce.com cloud solutions and external
+                    applications raises the business on a completely another
+                    level giving a client better business overview.
                   </p>
                 </div>
                 <div className="item">
-                  <h5>Lightning Web Components</h5>
+                  <h5>Salesforce Administration and Support</h5>
                   <p>
-                    Lightning Web Components (LWC) is a modern approach to
-                    building user interfaces on the Salesforce platform. LWC
-                    leverages web standards like HTML, JavaScript, and CSS to
-                    create responsive and efficient UI components. By mastering
-                    LWC development, you can create lightning-fast,
-                    customizable, and reusable components that enhance user
-                    experience and streamline workflows in Salesforce
-                    applications.
-                  </p>
-                </div>
-                <div className="item">
-                  <h5>Sales Cloud</h5>
-                  <p>
-                    Sales Cloud is a core Salesforce product focused on managing
-                    sales processes, leads, opportunities, and customer
-                    interactions. Developing skills in Sales Cloud configuration
-                    and customization involves tailoring the platform to fit
-                    your organization's specific sales workflows. This includes
-                    setting up custom fields, workflows, validation rules, and
-                    reports to optimize sales operations and provide valuable
-                    insights into your sales pipeline. Mastering this skill
-                    enhances sales efficiency and helps drive revenue growth
-                    through the effective use of Salesforce's sales management
-                    tools.
+                    To make your daily operational services more fluent, we are
+                    powering your business with on-demand Salesforce admin staff
+                    members. As a complement to the uniqueness of every
+                    business, an admin constantly participates in tailoring your
+                    Salesforce Cloud solutions to make an optimized daily scope
+                    of work for your employees. In order to ensure optimal
+                    performance of Salesforce systems and products, upgrade and
+                    configure Salesforce systems for optimized integration, a
+                    need for this business segment becomes a foundation for
+                    stable business operations. By evaluating and installing new
+                    Salesforce releases, as well as providing training and
+                    support for client employees, a business performance becomes
+                    even more elevated.
                   </p>
                 </div>
               </Carousel>

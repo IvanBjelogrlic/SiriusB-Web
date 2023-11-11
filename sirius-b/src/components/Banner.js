@@ -76,11 +76,10 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book.
+                    We help businesses and their people succeed in the
+                    Salesforce.com ecosystem. {'\n'} 
+                    We influence how organizations
+                    think about digital transformative change
                   </p>
                   <Link to="contact" smooth={true} duration={500}>
                     <button onClick={() => console.log("connect")}>
