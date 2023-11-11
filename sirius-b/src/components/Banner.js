@@ -77,7 +77,7 @@ export const Banner = () => {
                   </h1>
                   <p>
                     We help businesses and their people succeed in the
-                    Salesforce.com ecosystem. <b></b> 
+                    Salesforce.com ecosystem. <b /> 
                     We influence how organizations
                     think about digital transformative change
                   </p>
