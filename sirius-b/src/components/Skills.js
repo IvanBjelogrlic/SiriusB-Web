@@ -48,6 +48,7 @@ export const Skills = () => {
                 years of experience in working with different Cloud applications
                 on the Salesforce.com platform.
               </p>
+              <h2 className="text-padding-bottom">Our Services</h2>
               <Carousel
                 responsive={responsive}
                 infinite={true}

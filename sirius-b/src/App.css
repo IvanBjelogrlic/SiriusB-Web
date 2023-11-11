@@ -78,6 +78,10 @@ select:focus {
   outline: none;
 }
 
+.text-padding-bottom{
+  padding-bottom: 1rem;
+}
+
 @media (min-width: 1700px) {
   main .container {
     max-width: 100%;
