@@ -4,40 +4,48 @@ import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
+
+import booking_app from "../assets/img/booking_app.png";
+import ecommerce_website from "../assets/img/ecommerce_website.png";
+import edi_implemenation from "../assets/img/edi_implementation.png";
+import payment_app from "../assets/img/payment_app_integration.png";
+import sales_cloud from "../assets/img/sales_cloud.png";
+import stock_management from "../assets/img/stock_management.png";
+
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      title: "Sales cloud implementation",
+      description: "Implementing solution for retail sales activities, connecting opportunities with sales orders, automating solution for accounts follow up, customizing sales processes",
+      imgUrl: sales_cloud,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
+      title: "Payment App integration",
+      description: "Integrating payment app solution within Salesforce, customizing payment app to support different payment methods, implementing pay via link solution, managing Adyen payment portal",
+      imgUrl: payment_app,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      title: "E-commerce website integration",
+      description: "Creating API’s for Salesforce e-commerce website data interchange, customizing webforms to capture website data within Salesforce cases, customizing webforms to capture website data within Salesforce opportunities, exposing Salesforce user data and statistics within website user profile",
+      imgUrl: ecommerce_website,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      title: "Stock Management",
+      description: "Inventory management custom solution, stock management implementation, implementing stock reservations, stock transfers, stock adjustments and stock receipts, customizing stock movements and stock tracking history",
+      imgUrl: stock_management,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
+      title: "EDI implementation",
+      description: "Transportation and logistics, zenkraft integration within custom Salesforce solution, customizing fulfillment orders for transportation purposes, automating shipment EDI solution between carrier and salesforce, covering worldwide shipments",
+      imgUrl: edi_implemenation,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      title: "Booking app",
+      description: "Integration with Salesforce, implementing booking app for booking experiences, implementing APIs for data interchange between Salesforce and booking app, customizing salesforce for capturing experience orders, customizing salesforce for booking sessions management",
+      imgUrl: booking_app,
     },
   ];
 
@@ -48,13 +56,13 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Sales Cloud",
+      description: "Retail company",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Payment App",
+      description: "Managing payments with Adyen",
       imgUrl: projImg2,
     },
   ];
