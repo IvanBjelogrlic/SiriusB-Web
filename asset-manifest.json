@@ -1,9 +1,15 @@
 {
   "files": {
     "main.css": "/SiriusB-Web/static/css/main.a384bbca.css",
-    "main.js": "/SiriusB-Web/static/js/main.9f4e0b6c.js",
+    "main.js": "/SiriusB-Web/static/js/main.de7561d1.js",
     "static/js/787.339624b6.chunk.js": "/SiriusB-Web/static/js/787.339624b6.chunk.js",
+    "static/media/stock_management.png": "/SiriusB-Web/static/media/stock_management.a64d4c73ca31e0b1d9c1.png",
+    "static/media/payment_app_integration.png": "/SiriusB-Web/static/media/payment_app_integration.e5f0019a7f80f41c52fd.png",
+    "static/media/sales_cloud.png": "/SiriusB-Web/static/media/sales_cloud.75f4d0fd1be13f70fe20.png",
+    "static/media/booking_app.png": "/SiriusB-Web/static/media/booking_app.ddee60e4bb17a94ea59b.png",
     "static/media/project-img1.png": "/SiriusB-Web/static/media/project-img1.847a764611a416f1477b.png",
+    "static/media/edi_implementation.png": "/SiriusB-Web/static/media/edi_implementation.d3f6fc36a5e676c4cc84.png",
+    "static/media/ecommerce_website.png": "/SiriusB-Web/static/media/ecommerce_website.53e4dd8e068ccecab6b5.png",
     "static/media/color-sharp.png": "/SiriusB-Web/static/media/color-sharp.eb50add22d47b86cc125.png",
     "static/media/color-sharp2.png": "/SiriusB-Web/static/media/color-sharp2.e11048042c58bc352094.png",
     "static/media/contact-img.svg": "/SiriusB-Web/static/media/contact-img.8c672b379d3d52db5cd863bc801a636d.svg",
@@ -25,11 +31,11 @@
     "static/media/arrow1.svg": "/SiriusB-Web/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/SiriusB-Web/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.a384bbca.css.map": "/SiriusB-Web/static/css/main.a384bbca.css.map",
-    "main.9f4e0b6c.js.map": "/SiriusB-Web/static/js/main.9f4e0b6c.js.map",
+    "main.de7561d1.js.map": "/SiriusB-Web/static/js/main.de7561d1.js.map",
     "787.339624b6.chunk.js.map": "/SiriusB-Web/static/js/787.339624b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a384bbca.css",
-    "static/js/main.9f4e0b6c.js"
+    "static/js/main.de7561d1.js"
   ]
 }
